@@ -1,0 +1,20 @@
+D:\Develop\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Develop\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmvotacao.resources
+D:\Develop\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Develop\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Develop\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Develop\TestesC#\Votacao\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Develop\TestesC#\Votacao\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Develop\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Develop\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Google Drive\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Google Drive\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\adm\Google Drive\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\adm\Google Drive\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\adm\Google Drive\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adm\Google Drive\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmvotacao.resources
+C:\Users\adm\Google Drive\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\adm\Google Drive\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\adm\Google Drive\TestesC#\Votacao\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\adm\Google Drive\TestesC#\Votacao\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\adm\Google Drive\TestesC#\Votacao\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
